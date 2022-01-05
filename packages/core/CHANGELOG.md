@@ -1,5 +1,11 @@
 # @urql/core
 
+## 2.3.7
+
+### Patch Changes
+
+- Bump `@graphql-typed-document-node/core` to 3.1.1 for `graphql@16` support, by [@JoviDeCroock](https://github.com/JoviDeCroock) (See [#2153](https://github.com/FormidableLabs/urql/pull/2153))
+
 ## 2.3.6
 
 ### Patch Changes

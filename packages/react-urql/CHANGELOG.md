@@ -1,5 +1,13 @@
 # urql
 
+## 2.0.7
+
+### Patch Changes
+
+- ⚠️ Fix `useMutation` not working correctly with React 18, by [@Dremora](https://github.com/Dremora) (See [#2158](https://github.com/FormidableLabs/urql/pull/2158))
+- Updated dependencies (See [#2153](https://github.com/FormidableLabs/urql/pull/2153))
+  - @urql/core@2.3.7
+
 ## 2.0.6
 
 ### Patch Changes
